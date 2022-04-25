@@ -8,6 +8,7 @@
     "typescript": "^4.6.3"
   },
   "dependencies": {
+    "@jakemott/reactshared": "^1.0.7",
     "@types/react": "^18.0.6",
     "@types/react-dom": "^18.0.2",
     "@types/react-native": "^0.67.6",

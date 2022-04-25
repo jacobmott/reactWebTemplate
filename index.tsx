@@ -3,7 +3,7 @@ import React from "react";
 
 import { createRoot } from "react-dom/client";
 import { StyleSheet, View, Text } from "react-native";
-import { Counter } from "./shared/components/counter";
+import Counter from "@jakemott/reactshared"
 
 
 

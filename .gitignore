@@ -41,6 +41,10 @@ project.xcworkspace
 /template/android/app/build/
 /template/android/build/
 
+
+.cache
+dist
+
 # Buck
 .buckd
 buck-out
